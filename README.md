@@ -5,7 +5,7 @@
 <ul>
     <li><a href="adv_css/index.html" target="_blank">Advanced CSS</a></li>
     </ul>
-    <ul>
+<ul>
     <li><a href="Responsive/index.html" target="_blank">Responsive</a></li>
     </ul>
     
